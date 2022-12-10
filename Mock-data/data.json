@@ -1,0 +1,40 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "images/chips.jpg",
+            "date": "12/02/2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Fast-food ",
+            "PostImage": "images/pizza.jpg",
+            "date": "15/05/2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample marathi nasta",
+            "PostImage": "images/poha.jpg",
+            "date": "10/06/2022"
+            },
+            {"name":"Prasad",
+            "location":"Mysoor",
+            "likes":540,
+            "description": "Ready within 5 min ",
+            "PostImage": "images/maggi.jpg",
+            "date": "18/06/2022"
+            },
+            {"name":"Komal",
+            "location":"Aurangabad",
+            "likes":460,
+            "description": "Festivals sweets for Every Indian familys",
+            "PostImage": "images/sweet.jpg",
+            "date": "10/04/2022"
+            }
+            ]
+}

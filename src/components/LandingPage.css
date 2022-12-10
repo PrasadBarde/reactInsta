@@ -1,0 +1,30 @@
+#container{
+    height: 250px;
+    width: 600px;
+    border: 1px solid black;
+    display: flex;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+#imagecontainers{
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid black; */
+
+}
+#image{
+    width: 100%;
+    height: 100%;
+}
+#right-contain{
+    width: 50%;
+    height: 100%;
+    color: darkgreen;
+    padding-top: 50px;
+}
+#button{
+    border-radius: 5px ;
+    margin-left: 30%;
+    width: 100px;
+background-color: aliceblue;
+}
